@@ -1,6 +1,6 @@
 #
 # This uses the macro plugin 
-# https://github.com/fralau/mkdocs_macros_plugin
+# https://github.com/fralau/mkdocs_MACros_plugin
 #
 # To install use pip install mkdocs-macros-plugin
 #
